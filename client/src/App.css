@@ -1,0 +1,29 @@
+h3 {
+	text-align: center;
+	color: white;
+}
+
+.main-container {
+	height: 100vh;
+	margin-left: 70px;
+}
+
+.modal-container {
+	height: 70px;
+	width: 100%;
+	background: linear-gradient(to right,#8b33ff, #ff33e4);
+	vertical-align: middle;
+}
+
+.modal-container button {
+	border: 0px solid gray;
+	box-sizing: border-box;
+	border-radius: 10%;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.todos-container {
+	display: flex;
+	background: linear-gradient(to right,#7033ff4f, #ff33e4);
+}
